@@ -4,7 +4,7 @@ pygments: true
 url: http://andyron.github.io
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
-baseurl:andyron.github.com
+baseurl:/blog
 
 # Theme customization - please change from the defaults!
 theme:
