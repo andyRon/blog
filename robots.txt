@@ -1,0 +1,5 @@
+Sitemap: http://andyron.github.io/sitemap.xml
+
+User-agent: *
+Disallow: /assets/images/
+Disallow: /images/

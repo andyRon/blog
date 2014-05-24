@@ -1,0 +1,36 @@
+# General Jekyll Config
+markdown: kramdown
+pygments: true
+url: http://andyron.github.io
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore]
+baseurl:andyron.github.com
+
+# Theme customization - please change from the defaults!
+theme:
+  # Color for top bar, links, etc
+  highlight_color: '#FFDAB9'
+
+  # Profile links on the left sidebar, leave blank to ignore
+  social:
+    github: andyron
+    #bitbucket: philipj
+    hacker_news: andyron
+    #stackexchange: 348619
+    #stackoverflow: 348619
+    #twitter: heyuan
+    #facebook: zuck
+    #tumblr: animalygifs
+    #linkedin: philipjagielski
+    #gplus: 110552447039675960964
+
+  # "Hi, I'm _______"
+  name: andyron
+  email: randy.njfu@gmail.com
+  tagline: "stay hungry"
+
+  # Google Analytics key, leave blank to ignore
+  #google_analytics_key: UA-34087103-1
+  #google_analytics_domain: 'lenage.com'
+  # Toggle "Postings are my own" disclaimer in footer
+  show_disclaimer: true
